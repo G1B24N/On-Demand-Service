@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner-vid {
+    width: 100%;
+    height: 100vh;
+}
+
+.banner-vid video {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

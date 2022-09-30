@@ -1,0 +1,79 @@
+/* body {
+    margin: 0;
+    padding: 0;
+} */
+
+/* #pesan {
+    float: left;
+    width: 400px;
+    height: 550px;
+    background: #27ae60;
+    overflow-y: auto;
+}
+
+#map {
+    float: left;
+    width: calc(100% - 400px);
+    width: 725px;
+    height: 550px;
+} */
+
+#title {
+    /* text-align: center; */
+    /* margin: 10px 0; */
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn-cari-lokasi {
+    font-size: 12px;
+    border-style: none;
+    color: #27ae60;
+}
+
+.btn-cari-lokasi:hover {
+    background-color: #130f40;
+    color: #fff;
+}
+
+.btn-pesan {
+    font-size: 15px;
+    color: #27ae60;
+    border-style: none;
+    display: block;
+    margin: auto;
+}
+
+.btn-pesan:hover {
+    background-color: #130f40;
+    color: #fff;
+}
+
+.inner {
+    padding: 10px;
+}
+
+#detail {
+    display: none;
+    margin-top: 50px;
+}
+
+#detail th {
+    color: #130f40;
+    font-weight: bold;
+}
+
+#detail th, #detail td {
+    font-size: 15px;
+    padding: 10px;
+    color: #130f40;
+    font-weight: normal;
+}
+
+.card-custom {
+	background-color: #fff;
+	padding: 10px 15px;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
+    margin-bottom: 20px;
+}
